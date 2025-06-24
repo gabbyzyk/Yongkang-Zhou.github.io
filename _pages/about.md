@@ -27,7 +27,7 @@ Publicatin
   <div>
     <p> International Conference on Database Systems for Advanced Applicatio(DASFAA 2025)</p>
     <p><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
-    <p><strong>Zhou, Y.<strong>, Yan, M., Xu, G., Yao, J.</p>
+    <p><strong>Zhou, Y.</strong>, Yan, M., Xu, G., Yao, J.</p>
     <p>&nbsp;</p>
   </div>
 </div>
