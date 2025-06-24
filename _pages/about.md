@@ -1,6 +1,5 @@
 ---
 permalink: /
-classes: fullwidth
 title: "About Me"
 author_profile: false
 redirect_from: 
