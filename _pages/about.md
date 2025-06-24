@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I’m **Yongkang Zhou**, a second-year M.S. student in Computer Technology at East China Normal University (ECNU), advised by Prof. Junjie Yao. My research interests lie in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Information Retrieval**.
 
-News
+📰News
 ======
 
 -  **Jun 2025** — *GEAR: Graph-Efficient Augmented Retrieval* submitted to **ICDE 2026**
