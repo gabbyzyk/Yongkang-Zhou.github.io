@@ -27,4 +27,4 @@ Publicatin
 - 🎉 **Jan 2025** — Paper *ProRAG* accepted at **DASFAA 2025**
 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+[Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
