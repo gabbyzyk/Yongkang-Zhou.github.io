@@ -399,3 +399,9 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+.page.fullwidth {
+  @include breakpoint($large) {
+    @include span(12 of 12); // 内容占据全部宽度
+    @include prefix(0);
+    @include suffix(0);
+  }
