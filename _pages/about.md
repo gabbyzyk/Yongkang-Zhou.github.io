@@ -24,7 +24,7 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 Publicatin
 ------
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 200px; height: 150px; border-radius: 3px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); overflow: hidden;">
+  <div style="width: auto; height: 150px; border-radius: 3px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); overflow: hidden;">
     <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.85rem;">
@@ -38,7 +38,7 @@ Publicatin
 Under Review
 ------
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 200px; height: 150px; border-radius: 3px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); overflow: hidden;">
+  <div style="width: auto; height: 150px; border-radius: 3px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); overflow: hidden;">
     <img src="../assets/icde.png" alt="ICDE" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.85rem;">
@@ -50,7 +50,7 @@ Under Review
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 200px; height: 150px; border-radius: 3px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); overflow: hidden;">
+  <div style="width: auto; height: 150px; border-radius: 3px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); overflow: hidden;">
     <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.85rem;">
