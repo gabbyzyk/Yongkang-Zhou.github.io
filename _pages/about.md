@@ -19,3 +19,12 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 - 🎤 **May 2025** — Presented **ProRAG** at **DASFAA 2025 (Oral Presentation)** in Singapore
 - 🎉 **Jan 2025** — Paper *ProRAG* accepted at **DASFAA 2025**
 
+
+Publicatin
+------
+- 📄 **Jun 2025** — *GEAR: Graph-Efficient Augmented Retrieval* submitted to **ICDE 2026**
+- 🎤 **May 2025** — Presented **ProRAG** at **DASFAA 2025 (Oral Presentation)** in Singapore
+- 🎉 **Jan 2025** — Paper *ProRAG* accepted at **DASFAA 2025**
+
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
