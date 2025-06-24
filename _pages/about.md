@@ -25,7 +25,7 @@ Publicatin
 ------
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
   <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 300px; border-radius: 10px;" />
-  <div style="font-size: 0.5rem;">
+  <div style="font-size: 0.8rem;">
     <p> International Conference on Database Systems for Advanced Applicatio(DASFAA 2025)</p>
     <p><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
     <p><strong>Zhou, Y.</strong>, Yan, M., Xu, G., Yao, J.</p>
@@ -37,7 +37,7 @@ Under Review
 ------
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
   <img src="../assets/icde.png" alt="ICDE" style="width: 300px; border-radius: 10px;" />
-  <div style="font-size: 0.5rem;">
+  <div style="font-size: 0.8rem;">
     <p>IEEE International Conference on Data Engineering (ICDE 2026) — Submitted (Under Review)</p>
     <p><strong>GEAR: Graph-efficient Augmented Retrieval via Adaptive Knowledge-path Fusion</strong></p>
     <p><strong>Zhou, Y.</strong>, Quan, X., Hou, Y., Xu, G., Wang, J., Yao, J.</p>
@@ -47,7 +47,7 @@ Under Review
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
   <img src="../assets/cikm.png" alt="CIKM" style="width: 300px; border-radius: 10px;" />
-  <div style="font-size: 0.9rem;">
+  <div style="font-size: 0.8rem;">
     <p>ACM International Conference on Information and Knowledge Management (CIKM 2025) — Submitted (Under Review)</p>
     <p><strong>ThoughtForest-KGQA: A Multi-chain Tree Search for Knowledge Graph Reasoning</strong></p>
     <p>Quan, X., <strong>Zhou, Y.</strong>, Yao, J.</p>
