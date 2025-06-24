@@ -50,7 +50,7 @@ Under Review
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 350; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+  <div style="width: 190; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.8rem;">
