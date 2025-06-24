@@ -25,7 +25,9 @@ My current work explores how to model source reliability and structure-aware ret
 
 - 📄 **Jun 2025** — *GEAR: Graph-Efficient Augmented Retrieval* submitted to **ICDE 2026**
 - 🎤 **May 2025** — Presented **ProRAG** at **DASFAA 2025 (Oral Presentation)** in Singapore
-- ✍ **Apr 2025** — Started a new project on **Graph-based Source Confidence Estimation**
+- ✅ **Jan 2025** — Paper *ProRAG: Towards Reliable and Proficient AIGC-Based Digital Avatar* accepted at **DASFAA 2025**
+
+
 
 ---
 
