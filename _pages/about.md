@@ -22,17 +22,6 @@ effectively for societal benefit
 - 🎤 **May 2025** — Presented **ProRAG** at **DASFAA 2025 (Oral Presentation)** in Singapore
 - ✅ **Jan 2025** — Paper *ProRAG: Towards Reliable and Proficient AIGC-Based Digital Avatar* accepted at **DASFAA 2025**
 
-
-
----
-
-### 📂 Selected Links
-
-- [CV (PDF)](/files/Yongkang_Zhou_CV.pdf)
-- [Google Scholar](https://scholar.google.com/)
-- [GitHub](https://github.com/mumusan0102)
-- [Email Me](mailto:your_email@domain.com)
-
 ---
 
 Thank you for visiting! Please feel free to reach out if you’re interested in research collaborations or discussions.
