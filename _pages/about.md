@@ -24,7 +24,7 @@ Publicatin
 ------
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="../assets/icde.png" alt="Profile" style="width: 400px; border-radius: 10px;"/>
+  <img src="../assets/icde.png" alt="Profile" style="width: 200px; border-radius: 10px;"/>
   <div>
     <p>👋 Hello! I’m <strong>Yongkang Zhou</strong>, a second-year M.S. student at ECNU, advised by Prof. Junjie Yao.</p>
     <p>My research interests include <strong>LLMs</strong>, <strong>RAG</strong>, and <strong>information retrieval</strong>. I’m currently focused on building reliable and efficient systems that combine graph reasoning with language models.</p>
