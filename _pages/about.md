@@ -23,7 +23,7 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 
 Publicatin
 ------
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
   <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 200px; border-radius: 10px;" />
   <div>
     <p> International Conference on Database Systems for Advanced Applicatio(DASFAA 2025)</p>
@@ -35,7 +35,7 @@ Publicatin
 
 Under Review
 ------
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
   <img src="../assets/icde.png" alt="ICDE" style="width: 200px; border-radius: 10px;" />
   <div>
     <p>IEEE International Conference on Data Engineering (ICDE 2026) — Submitted (Under Review)</p>
@@ -45,7 +45,7 @@ Under Review
   </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
+<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
   <img src="../assets/cikm.png" alt="CIKM" style="width: 200px; border-radius: 10px;" />
   <div>
     <p>ACM International Conference on Information and Knowledge Management (CIKM 2025) — Submitted (Under Review)</p>
