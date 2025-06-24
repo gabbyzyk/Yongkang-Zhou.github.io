@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yongkang Zhou | Retrieval-Augmented Generation & Graph-based IR"
+title: "Yongkang Zhou"
 author_profile: true
 redirect_from: 
   - /about/
