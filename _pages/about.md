@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I’m **Yongkang Zhou**, a second-year M.S. student in Computer Technology at East China Normal University (ECNU), advised by Prof. Junjie Yao. My research interests lie in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **Graph-based Information Retrieval**.
+Welcome! I’m **Yongkang Zhou**, a second-year M.S. student in Computer Technology at East China Normal University (ECNU), advised by Prof. Junjie Yao. My research interests lie in **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, and **nformation Retrieval**.
 
 News
 ======
