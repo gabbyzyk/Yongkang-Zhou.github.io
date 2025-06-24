@@ -11,8 +11,9 @@ redirect_from:
 
 A data-driven personal website
 ======
+
 I am a Master's student in the VisLab of East China Normal University,
-Getting started
+
 ======
 
 
