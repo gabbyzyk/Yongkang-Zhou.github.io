@@ -57,7 +57,7 @@ spaces and subgraph structures</p>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 449px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+  <div style="width: 455px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.7rem; line-height: 0.9;">
