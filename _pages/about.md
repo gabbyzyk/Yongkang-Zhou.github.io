@@ -1,5 +1,6 @@
 ---
 permalink: /
+classes: about-page
 title: "About Me"
 author_profile: false
 redirect_from: 
