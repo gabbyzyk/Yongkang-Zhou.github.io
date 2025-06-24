@@ -24,7 +24,7 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 Publicatin
 ------
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: auto; height: 150px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+  <div style="width: 390px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.8rem; line-height: 0.8;">
@@ -38,7 +38,7 @@ Publicatin
 Under Review
 ------
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: auto; height: 150px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+  <div style="width: 390px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/icde.png" alt="ICDE" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.8rem; line-height: 0.8;">
@@ -51,7 +51,7 @@ spaces and subgraph structures</p>
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 388px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+  <div style="width: 430px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.8rem; line-height: 0.8;">
