@@ -25,7 +25,7 @@ Publicatin
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
   <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 200px; border-radius: 10px;" />
   <div>
-    <p><strong>DASFAA 2025 — Accepted (Oral Presentation)</strong></p>
+    <p> International Conference on Database Systems for Advanced Applicatio(DASFAA 2025)</p>
     <p><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
     <p>Zhou, Y., Yan, M., Xu, G., Yao, J.</p>
     <p>&nbsp;</p>
