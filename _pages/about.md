@@ -17,17 +17,22 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 ------
 - 📄 **Jun 2025** — *GEAR: Graph-Efficient Augmented Retrieval* submitted to **ICDE 2026**
 - 🎤 **May 2025** — Presented **ProRAG** at **DASFAA 2025 (Oral Presentation)** in Singapore
-- 🎉 **Jan 2025** — Paper *ProRAG* accepted at **DASFAA 2025**
+- 🎉 **Jan 2025** — Paper **ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar** accepted at **DASFAA 2025**
 
 
 Publicatin
 ------
-
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="../assets/icde.png" alt="Profile" style="width: 200px; border-radius: 10px;"/>
-  <div>
-    <p>👋 Hello! I’m <strong>Yongkang Zhou</strong>, a second-year M.S. student at ECNU, advised by Prof. Junjie Yao.</p>
-    <p>My research interests include <strong>LLMs</strong>, <strong>RAG</strong>, and <strong>information retrieval</strong>. I’m currently focused on building reliable and efficient systems that combine graph reasoning with language models.</p>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
+  <img src="../assets/icde.png" alt="ICDE Logo" style="width: 150px; border-radius: 10px;"/>
+  <div style="line-height: 1.4;">
+    <p style="margin: 0; font-weight: 600;">ICDE 2026 — SUBMITTED</p>
+    <p style="margin: 0; font-weight: 700; text-transform: uppercase;">
+      GEAR: GRAPH-EFFICIENT AUGMENTED RETRIEVAL VIA ADAPTIVE KNOWLEDGE-PATH FUSION
+    </p>
+    <p style="margin: 0;">
+      Zhou, Y., Quan, X., Hou, Y., Xu, G., Wang, J., Yao, J.
+    </p>
+    <p style="margin: 0 0 0.5em 0;">&nbsp;</p>
   </div>
 </div>
 
