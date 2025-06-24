@@ -408,9 +408,9 @@
 
 .page.about-page {
   @include breakpoint($large) {
-    @include span(10 of 12);
-    @include prefix(1);
-    @include suffix(1);
+    @include span(12 of 12);
+    @include prefix(0);
+    @include suffix(0);
   }
 
   .page__content {
