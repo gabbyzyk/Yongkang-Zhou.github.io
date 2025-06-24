@@ -22,19 +22,18 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 
 Publicatin
 ------
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 2em;">
-  <img src="../assets/icde.png" alt="ICDE Logo" style="width: 150px; border-radius: 10px;"/>
-  <div style="line-height: 1.4;">
-    <p style="margin: 0; font-weight: 600;">ICDE 2026 — SUBMITTED</p>
-    <p style="margin: 0; font-weight: 700; text-transform: uppercase;">
-      GEAR: GRAPH-EFFICIENT AUGMENTED RETRIEVAL VIA ADAPTIVE KNOWLEDGE-PATH FUSION
-    </p>
-    <p style="margin: 0;">
-      Zhou, Y., Quan, X., Hou, Y., Xu, G., Wang, J., Yao, J.
-    </p>
-    <p style="margin: 0 0 0.5em 0;">&nbsp;</p>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 2em;">
+  <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 200px; border-radius: 10px;" />
+  <div>
+    <p><strong>DASFAA 2025 — Accepted (Oral Presentation)</strong></p>
+    <p><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
+    <p>Zhou, Y., Yan, M., Xu, G., Yao, J.</p>
+    <p>&nbsp;</p>
   </div>
 </div>
+
+Under Review
+------
 
 
 [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
