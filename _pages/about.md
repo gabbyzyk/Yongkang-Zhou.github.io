@@ -24,10 +24,10 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 Publicatin
 ------
 <div style="display: flex; align-items: stretch; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 310px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
-    <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 100%; height: 100%; object-fit: contain;" />
+  <div style="flex: 0 0 30%; max-width: 310px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+    <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
-  <div style="font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1; font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <p style="margin: 0.3em 0;">International Conference on Database Systems for Advanced Applications (DASFAA 2025)</p>
       <p style="margin: 0.3em 0;"><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
@@ -60,10 +60,10 @@ Under Review
 
 
 <div style="display: flex; align-items: stretch; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 317px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
-    <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: 100%; object-fit: contain;" />
+  <div style="flex: 0 0 30%; max-width: 310px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+    <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
-  <div style="font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1; font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <p style="margin: 0.3em 0;">ACM International Conference on Information and Knowledge Management (CIKM 2025)</p>
       <p style="margin: 0.3em 0;"><strong>ThoughtForest-KGQA: A Multi-chain Tree Search for Knowledge Graph Reasoning</strong></p>
@@ -75,7 +75,6 @@ Under Review
     </p>
   </div>
 </div>
-
 
 
 [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
