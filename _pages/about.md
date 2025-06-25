@@ -22,17 +22,20 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 
 
 Publicatin
-------
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
   <div style="width: 310px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
-  <div style="font-size: 0.7rem; line-height: 1;">
-    <p style="margin: 0.3em 0;"> International Conference on Database Systems for Advanced Applicatio(DASFAA 2025)</p>
+  
+  <!-- 右侧文本块，使用纵向 flex 容器 -->
+  <div style="font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column;">
+    <p style="margin: 0.3em 0;">International Conference on Database Systems for Advanced Applications (DASFAA 2025)</p>
     <p style="margin: 0.3em 0;"><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
     <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Yan, M., Xu, G., Yao, J.</p>
-    <p style="margin: 0.3em 0;"> Proposed ProRAG, a RAG framework with hierarchical retrieval and multimodal grounding for reliable digital avatar</p>
-    <p style="margin-top: 6em ;">
+    <p style="margin: 0.3em 0;">Proposed ProRAG, a RAG framework with hierarchical retrieval and multimodal grounding for reliable digital avatar</p>
+    
+    <!-- 自动贴底对齐 -->
+    <p style="margin: 0.3em 0; margin-top: auto;">
       📑 <a href="../assets/dasfaa25_pw.pdf">PDF</a> &nbsp;&nbsp;
       🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
     </p>
@@ -51,7 +54,7 @@ Under Review
     <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Quan, X., Hou, Y., Xu, G., Wang, J., Yao, J.</p>
     <p style="margin: 0.3em 0;">Developed GEAR, a multi-head graph retrieval framework that improves accuracy and efficiency by fusing diverse pattern
 spaces and subgraph structures</p>
-    <p style="margin-top: 6em ;">
+    <p style="margin-top: 5.6em ;">
       📑 <a href="../assets/ICDE2026_pw.pdf">PDF</a> &nbsp;&nbsp;
     </p>
   </div>
@@ -67,7 +70,7 @@ spaces and subgraph structures</p>
     <p style="margin: 0.3em 0;">Quan, X., <strong>Zhou, Y.</strong>, Yao, J.</p>
     <p style="margin: 0.3em 0;">Developed ThoughtForest-KGQA, a hierarchical reinforcement learning framework using multi-chain tree search for
 multi-hop question answering over knowledge graphs</p>
-    <p style="margin-top: 6em ;">
+    <p style="margin-top: 7.3em ;">
       📑 <a href="../assets/CIKM2025_pw.pdf">PDF</a> &nbsp;&nbsp;
     </p>
   </div>
