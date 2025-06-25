@@ -50,10 +50,13 @@ Under Review
   <div style="flex: 1; font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <p style="margin: 0.3em 0;">IEEE International Conference on Data Engineering (ICDE 2026)</p>
-      ...
+      <p style="margin: 0.3em 0;"><strong>GEAR: Graph-efficient Augmented Retrieval via Adaptive Knowledge-path Fusion</strong></p>
+      <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Quan, X., Hou, Y., Xu, G., Wang, J., Yao, J.</p>
+      <p style="margin: 0.3em 0;">Developed GEAR, a multi-head graph retrieval framework that improves accuracy and efficiency by fusing diverse pattern spaces and subgraph structures</p>
     </div>
     <p style="margin: 0.3em 0;">
-      📑 <a href="../assets/ICDE2026_pw.pdf">PDF</a>
+      📑 <a href="../assets/ICDE2026_pw.pdf">PDF</a> &nbsp;&nbsp;
+      🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
     </p>
   </div>
 </div>
