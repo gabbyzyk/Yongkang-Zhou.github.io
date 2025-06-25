@@ -26,15 +26,11 @@ Publicatin
   <div style="width: 310px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
-  
-  <!-- 右侧文本块，使用纵向 flex 容器 -->
   <div style="font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column;">
     <p style="margin: 0.3em 0;">International Conference on Database Systems for Advanced Applications (DASFAA 2025)</p>
     <p style="margin: 0.3em 0;"><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
     <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Yan, M., Xu, G., Yao, J.</p>
     <p style="margin: 0.3em 0;">Proposed ProRAG, a RAG framework with hierarchical retrieval and multimodal grounding for reliable digital avatar</p>
-    
-    <!-- 自动贴底对齐 -->
     <p style="margin: 0.3em 0; margin-top: auto;">
       📑 <a href="../assets/dasfaa25_pw.pdf">PDF</a> &nbsp;&nbsp;
       🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
