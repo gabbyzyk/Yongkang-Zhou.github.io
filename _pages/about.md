@@ -73,7 +73,7 @@ Under Review
       <p style="margin: 0.3em 0;">Developed ThoughtForest-KGQA, a hierarchical reinforcement learning framework using multi-chain tree search for multi-hop question answering over knowledge graphs</p>
     </div>
     <p style="margin: 0.3em 0;">
-      📑 <a href="../assets/CIKM2025 _pw.pdf.pdf" target="_blank">PDF</a>
+      📑 <a href="../assets/CIKM2025_pw.pdf" target="_blank">PDF</a>
     </p>
   </div>
 </div>
