@@ -17,7 +17,7 @@ I am currently pursuing Ph.D. programs in Computer Science and related fields, w
 
 Here is my [Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-📰News
+News
 ------
 - 📄 **Jun 2025** — Paper GEAR: **Graph-Efficient Augmented Retrieval** submitted to **ICDE 2026**
 - 🎤 **May 2025** — Presented **ProRAG** at **DASFAA 2025 (Oral Presentation)** in Singapore
