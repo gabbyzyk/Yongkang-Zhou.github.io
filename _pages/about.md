@@ -22,6 +22,10 @@ News
 - 📄 **Jun 2025** — Paper GEAR: **Graph-Efficient Augmented Retrieval** submitted to **ICDE 2026**
 - 🎤 **May 2025** — Presented **ProRAG** at **DASFAA 2025 (Oral Presentation)** in Singapore
 - 🎉 **Jan 2025** — Paper **ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar** accepted at **DASFAA 2025**
+- 🧑‍🎓 **Sep 2023** — Starting my Master's program at the school of Computer Science and Technology, ECNU.
+- 🎓 **Jul 2023** — Obtained a B.E. degree in Computer Science from the School of Computer Science and Technology, ECNU.
+- 👨‍💻 **Dec 2022** — Starting my internship as a junior researcher in Gritworld, Shanghai, China.
+
 
 
 Publicatin
