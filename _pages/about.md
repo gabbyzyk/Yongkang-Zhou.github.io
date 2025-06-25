@@ -32,7 +32,7 @@ Publicatin
     <p style="margin: 0.3em 0;"><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
     <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Yan, M., Xu, G., Yao, J.</p>
     <p style="margin: 0.3em 0;"> Proposed ProRAG, a RAG framework with hierarchical retrieval and multimodal grounding for reliable digital avatar</p>
-    <p style="margin: 0.3em 0;">
+    <p style="margin-top: 4em 0;">
       📑 <a href="../assets/dasfaa25_pw.pdf">PDF</a> &nbsp;&nbsp;
       🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
     </p>
@@ -51,7 +51,7 @@ Under Review
     <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Quan, X., Hou, Y., Xu, G., Wang, J., Yao, J.</p>
     <p style="margin: 0.3em 0;">Developed GEAR, a multi-head graph retrieval framework that improves accuracy and efficiency by fusing diverse pattern
 spaces and subgraph structures</p>
-    <p style="margin: 0.3em 0;">
+    <p style="margin-top: 4em 0;">
       📑 <a href="../assets/ICDE2026_pw.pdf">PDF</a> &nbsp;&nbsp;
     </p>
   </div>
@@ -67,7 +67,7 @@ spaces and subgraph structures</p>
     <p style="margin: 0.3em 0;">Quan, X., <strong>Zhou, Y.</strong>, Yao, J.</p>
     <p style="margin: 0.3em 0;">Developed ThoughtForest-KGQA, a hierarchical reinforcement learning framework using multi-chain tree search for
 multi-hop question answering over knowledge graphs</p>
-    <p style="margin: 0.3em 0;">
+    <p style="margin-top: 4em 0;">
       📑 <a href="../assets/CIKM2025_pw.pdf">PDF</a> &nbsp;&nbsp;
     </p>
   </div>
