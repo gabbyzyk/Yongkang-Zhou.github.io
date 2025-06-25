@@ -16,7 +16,7 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 
 📰News
 ------
-- 📄 **Jun 2025** — *GEAR: Graph-Efficient Augmented Retrieval* submitted to **ICDE 2026**
+- 📄 **Jun 2025** — Paper GEAR: **Graph-Efficient Augmented Retrieval** submitted to **ICDE 2026**
 - 🎤 **May 2025** — Presented **ProRAG** at **DASFAA 2025 (Oral Presentation)** in Singapore
 - 🎉 **Jan 2025** — Paper **ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar** accepted at **DASFAA 2025**
 
