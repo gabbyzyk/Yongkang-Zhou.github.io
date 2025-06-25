@@ -15,7 +15,7 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 
 I am currently pursuing Ph.D. programs in Computer Science and related fields, with a long-term goal of advancing the theoretical foundations and system design of knowledge-driven AI systems.
 
-Here is my [Yongkang Zhou's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my cv here: [Yongkang Zhou's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 News
 ------
