@@ -13,6 +13,8 @@ Welcome! I’m **Yongkang Zhou**, a second-year M.S. student in Computer Technol
 My current research focuses on building reliable and efficient **Large Language Model** systems, with a particular emphasis on **Retrieval-Augmented Generation**
 and **Information Retrieval**. I am also open to broader directions where LLMs can be applied responsibly and effectively for societal benefit
 
+I am currently pursuing for Ph.D. programs in Computer Science and related fields, with a long-term goal of advancing the theoretical foundations and system design of trustworthy LLMs.
+
 
 📰News
 ------
