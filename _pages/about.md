@@ -44,15 +44,13 @@ Publicatin
 Under Review
 ------
 <div style="display: flex; align-items: stretch; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 310px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
-    <img src="../assets/icde.png" alt="ICDE" style="width: 100%; height: 100%; object-fit: contain;" />
+  <div style="flex: 0 0 30%; max-width: 310px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+    <img src="../assets/icde.png" alt="ICDE" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
-  <div style="font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1; font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <p style="margin: 0.3em 0;">IEEE International Conference on Data Engineering (ICDE 2026)</p>
-      <p style="margin: 0.3em 0;"><strong>GEAR: Graph-efficient Augmented Retrieval via Adaptive Knowledge-path Fusion</strong></p>
-      <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Quan, X., Hou, Y., Xu, G., Wang, J., Yao, J.</p>
-      <p style="margin: 0.3em 0;">Developed GEAR, a multi-head graph retrieval framework that improves accuracy and efficiency by fusing diverse pattern spaces and subgraph structures</p>
+      ...
     </div>
     <p style="margin: 0.3em 0;">
       📑 <a href="../assets/ICDE2026_pw.pdf">PDF</a>
@@ -62,7 +60,7 @@ Under Review
 
 
 <div style="display: flex; align-items: stretch; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 315px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+  <div style="width: 317px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
