@@ -11,9 +11,9 @@ redirect_from:
 Welcome! I’m **Yongkang Zhou**, a second-year M.S. student in Computer Technology at East China Normal University (ECNU), advised by Prof. Junjie Yao. 
 
 My current research focuses on building reliable and efficient **Large Language Model** systems, with a particular emphasis on **Retrieval-Augmented Generation**
-and **Information Retrieval**. I am also open to broader directions where LLMs can be applied responsibly and effectively for societal benefit
+and **Information Retrieval**. I am also open to broader directions where LLMs can be applied responsibly and effectively for societal benefit.
 
-I am currently pursuing for Ph.D. programs in Computer Science and related fields, with a long-term goal of advancing the theoretical foundations and system design of knowledge-driven AI system.
+I am currently pursuing Ph.D. programs in Computer Science and related fields, with a long-term goal of advancing the theoretical foundations and system design of knowledge-driven AI systems.
 
 
 📰News
