@@ -67,8 +67,7 @@ Under Review
   </div>
 </div>
 
-Current Work
-------
+
 <div style="display: flex; align-items: stretch; gap: 10px; margin-bottom: 2em;">
   <div style="flex: 0 0 30%; max-width: 310px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: auto; object-fit: contain;" />
