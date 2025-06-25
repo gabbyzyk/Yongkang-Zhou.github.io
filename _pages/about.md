@@ -23,16 +23,18 @@ and **Information Retrieval**. I am also open to broader directions where LLMs c
 
 Publicatin
 ------
-<div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
+<div style="display: flex; align-items: stretch; gap: 10px; margin-bottom: 2em;">
   <div style="width: 310px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/dasfaa.png" alt="DASFAA" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
-  <div style="font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column;">
-    <p style="margin: 0.3em 0;">International Conference on Database Systems for Advanced Applications (DASFAA 2025)</p>
-    <p style="margin: 0.3em 0;"><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
-    <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Yan, M., Xu, G., Yao, J.</p>
-    <p style="margin: 0.3em 0;">Proposed ProRAG, a RAG framework with hierarchical retrieval and multimodal grounding for reliable digital avatar</p>
-    <p style="margin: 0.3em 0; margin-top: auto;">
+  <div style="font-size: 0.7rem; line-height: 1; display: flex; flex-direction: column; justify-content: space-between;">
+    <div>
+      <p style="margin: 0.3em 0;">International Conference on Database Systems for Advanced Applications (DASFAA 2025)</p>
+      <p style="margin: 0.3em 0;"><strong>ProRAG: Towards Reliable and Proficient AIGC-based Digital Avatar</strong></p>
+      <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Yan, M., Xu, G., Yao, J.</p>
+      <p style="margin: 0.3em 0;">Proposed ProRAG, a RAG framework with hierarchical retrieval and multimodal grounding for reliable digital avatar</p>
+    </div>
+    <p style="margin: 0.3em 0;">
       📑 <a href="../assets/dasfaa25_pw.pdf">PDF</a> &nbsp;&nbsp;
       🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
     </p>
