@@ -38,7 +38,7 @@ Publicatin
 Under Review
 ------
 <div style="display: flex; align-items: flex-start; gap: 10px; margin-bottom: 2em;">
-  <div style="width: 425px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
+  <div style="width: 421px; height: auto; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/icde.png" alt="ICDE" style="width: 100%; height: 100%; object-fit: contain;" />
   </div>
   <div style="font-size: 0.7rem; line-height: 1;">
