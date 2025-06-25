@@ -35,7 +35,7 @@ Publicatin
       <p style="margin: 0.3em 0;">Proposed ProRAG, a RAG framework with hierarchical retrieval and multimodal grounding for reliable digital avatar</p>
     </div>
     <p style="margin: 0.3em 0;">
-      📑 <a href="../assets/dasfaa25_pw.pdf">PDF</a> &nbsp;&nbsp;
+      📑 <a href="../assets/dasfaa25_pw.pdf" target="_blank">PDF</a> &nbsp;&nbsp;
       🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
     </p>
   </div>
@@ -55,7 +55,7 @@ Under Review
       <p style="margin: 0.3em 0;">Developed GEAR, a multi-head graph retrieval framework that improves accuracy and efficiency by fusing diverse pattern spaces and subgraph structures</p>
     </div>
     <p style="margin: 0.3em 0;">
-      📑 <a href="../assets/ICDE2026_pw.pdf">PDF</a> &nbsp;&nbsp;
+      📑 <a href="../assets/ICDE2026_pw.pdf" target="_blank">PDF</a> &nbsp;&nbsp;
       🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
     </p>
   </div>
@@ -74,7 +74,7 @@ Under Review
       <p style="margin: 0.3em 0;">Developed ThoughtForest-KGQA, a hierarchical reinforcement learning framework using multi-chain tree search for multi-hop question answering over knowledge graphs</p>
     </div>
     <p style="margin: 0.3em 0;">
-      📑 <a href="../assets/CIKM2025_pw.pdf">PDF</a>
+      📑 <a href="../assets/CIKM2025_pw.pdf" target="_blank">PDF</a>
     </p>
   </div>
 </div>
