@@ -67,14 +67,14 @@ Under Review
   </div>
 </div>
 
-
+Current Work
+------
 <div style="display: flex; align-items: stretch; gap: 10px; margin-bottom: 2em;">
   <div style="flex: 0 0 30%; max-width: 310px; border-radius: 1px; box-shadow: 0 4px 5px rgba(0,0,0,0.6); overflow: hidden;">
     <img src="../assets/cikm.png" alt="CIKM" style="width: 100%; height: auto; object-fit: contain;" />
   </div>
   <div style="flex: 1; font-size: 0.75rem; line-height: 1.1; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <p style="margin: 0.3em 0;">ACM International Conference on Information and Knowledge Management (CIKM 2025)</p>
       <p style="margin: 0.3em 0;"><strong>ThoughtForest-KGQA: A Multi-chain Tree Search for Knowledge Graph Reasoning</strong></p>
       <p style="margin: 0.3em 0;">Quan, X., <strong>Zhou, Y.</strong>, Yao, J.</p>
       <p style="margin: 0.3em 0;">Proposed ThoughtForest-KGQA, a hierarchical reinforcement learning framework using multi-chain tree search for multi-hop question answering over knowledge graphs</p>
