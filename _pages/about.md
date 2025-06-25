@@ -36,7 +36,6 @@ Publicatin
     </div>
     <p style="margin: 0.3em 0;">
       📑 <a href="../assets/dasfaa25_pw.pdf" target="_blank">PDF</a> &nbsp;&nbsp;
-      🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
     </p>
   </div>
 </div>
