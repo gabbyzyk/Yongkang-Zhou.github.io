@@ -54,7 +54,7 @@ Under Review
       <p style="margin: 0.3em 0;">IEEE International Conference on Data Engineering (ICDE 2026)</p>
       <p style="margin: 0.3em 0;"><strong>GEAR: Graph-efficient Augmented Retrieval via Adaptive Knowledge-path Fusion</strong></p>
       <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Quan, X., Hou, Y., Xu, G., Wang, J., Yao, J.</p>
-      <p style="margin: 0.3em 0;">Developed GEAR, a multi-head graph retrieval framework that improves accuracy and efficiency by fusing diverse pattern spaces and subgraph structures</p>
+      <p style="margin: 0.3em 0;">Proposed GEAR, a multi-head graph retrieval framework that improves accuracy and efficiency by fusing diverse pattern spaces and subgraph structures</p>
     </div>
     <p style="margin: 0.3em 0;">
       📑 <a href="../assets/ICDE2026_pw.pdf" target="_blank">PDF</a> &nbsp;&nbsp;
@@ -73,7 +73,7 @@ Under Review
       <p style="margin: 0.3em 0;">ACM International Conference on Information and Knowledge Management (CIKM 2025)</p>
       <p style="margin: 0.3em 0;"><strong>ThoughtForest-KGQA: A Multi-chain Tree Search for Knowledge Graph Reasoning</strong></p>
       <p style="margin: 0.3em 0;">Quan, X., <strong>Zhou, Y.</strong>, Yao, J.</p>
-      <p style="margin: 0.3em 0;">Developed ThoughtForest-KGQA, a hierarchical reinforcement learning framework using multi-chain tree search for multi-hop question answering over knowledge graphs</p>
+      <p style="margin: 0.3em 0;">Proposed ThoughtForest-KGQA, a hierarchical reinforcement learning framework using multi-chain tree search for multi-hop question answering over knowledge graphs</p>
     </div>
     <p style="margin: 0.3em 0;">
       📑 <a href="../assets/CIKM2025_pw.pdf" target="_blank">PDF</a>
