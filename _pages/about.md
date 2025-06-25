@@ -33,7 +33,7 @@ Publicatin
     <p style="margin: 0.3em 0;"><strong>Zhou, Y.</strong>, Yan, M., Xu, G., Yao, J.</p>
     <p style="margin: 0.3em 0;"> Proposed ProRAG, a RAG framework with hierarchical retrieval and multimodal grounding for reliable digital avatar</p>
     <p style="margin: 0.3em 0;">
-      📑 <a href="https://github.com/gabbyzyk/gabbyzyk.github.io/tree/master/assets/dasfaa25_pw.pdf" target="_blank">PDF</a> &nbsp;&nbsp;
+      📑 <a href="../assets/dasfaa25_pw.pdf">PDF</a> &nbsp;&nbsp;
       🛠️ <a href="https://github.com/gabbyzyk/GEAR" target="_blank">Code</a>
     </p>
   </div>
